@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "titulo": "Estudiar React",
+      "completado": false
+    },
+    {
+      "id": "8ccc",
+      "titulo": "Hola",
+      "completado": true
+    },
+    {
+      "id": "5991",
+      "titulo": "HOLA  grupo",
+      "completado": true
+    },
+    {
+      "id": "ea00",
+      "titulo": "hola grupo",
+      "completado": false
+    },
+    {
+      "id": "695f",
+      "titulo": "hola todos",
+      "completado": false
+    }
+  ]
+}
